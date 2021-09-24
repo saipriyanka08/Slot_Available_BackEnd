@@ -7,4 +7,4 @@
 Files used
 1.app.py->Flask file
 2)Procfile->To run in heroku server
-3)requirements.txt-> To note all the libraries used
+3)requirements.txt-> To note all the modules used
