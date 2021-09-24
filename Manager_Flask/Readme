@@ -1,0 +1,10 @@
+#BackEnd->Flask
+#Steps to excute the file
+1. Create Virtual Enivornment in python3
+2. Install all the modules in requirements.txt file (pip install -r requirement.txt)
+3. Run the app.py file
+
+Files used
+1.app.py->Flask file
+2)Procfile->To run in heroku server
+3)requirements.txt-> To note all the libraries used
